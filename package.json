@@ -1,0 +1,16 @@
+{
+  "name": "myjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "keccak256": "^1.0.0",
+    "solc": "0.4.24",
+    "web3": "^1.2.1"
+  }
+}
